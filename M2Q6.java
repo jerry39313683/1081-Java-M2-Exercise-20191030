@@ -12,10 +12,10 @@ public class M206{
         }
     }
     if(flag){
-        System.out.println("Yes");
+        System.out.println("NO");
     }
     else{
-        System.out.println("No");
+        System.out.println("YES");
     }
 }
 }
